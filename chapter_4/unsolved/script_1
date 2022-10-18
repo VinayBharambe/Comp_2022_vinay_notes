@@ -1,0 +1,6 @@
+gcc first_1.c -lm
+./a.out
+gcc first_2.c -lm
+./a.out
+gcc first_3.c -lm
+./a.out

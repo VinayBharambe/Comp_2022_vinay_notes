@@ -1,0 +1,3 @@
+gcc newton_raphson.c -lm
+./a.out
+cat result_newton.txt
